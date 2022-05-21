@@ -1,0 +1,6 @@
+/Users/muhammedkilic/Projects/try-catch/try-catch/obj/Debug/try-catch.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Projects/try-catch/try-catch/obj/Debug/try-catch.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Projects/try-catch/try-catch/bin/Debug/try-catch.exe
+/Users/muhammedkilic/Projects/try-catch/try-catch/bin/Debug/try-catch.pdb
+/Users/muhammedkilic/Projects/try-catch/try-catch/obj/Debug/try-catch.exe
+/Users/muhammedkilic/Projects/try-catch/try-catch/obj/Debug/try-catch.pdb
